@@ -31,6 +31,7 @@
 $ npm install
 $ npm i -g @nestjs/cli
 $ npm install @nestjs/typeorm typeorm @nestjs/mongoose mongoose
+$ npm i dotenv
 ```
 
 ## Compile and run the project
